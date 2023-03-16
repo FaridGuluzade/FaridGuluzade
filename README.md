@@ -1,5 +1,5 @@
-### <h1> 😎 Hey! Nice to see you. </h1>
-
+### <h2> 😎 Hey! Nice to see you. </h2>
+</hr>
 <!--
 **faridguluzade/faridguluzade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
