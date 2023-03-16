@@ -1,5 +1,11 @@
 ### <h2> 😎 Hey! Nice to see you. </h2>
 </hr>
+<p> Welcome to my page! </br>
+I'm Farid, Frontend developer from  Baku, Azerbaijan. </p>
+
+<h3>Things I code with< /h3>
+
+
 <!--
 **faridguluzade/faridguluzade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
