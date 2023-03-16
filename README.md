@@ -3,7 +3,7 @@
 <p> Welcome to my page! </br>
 I'm Farid, Frontend developer from  Baku, Azerbaijan. </p>
 
-<h3>Things I code with< /h3>
+<h3>Things I code with </h3>
 
 
 <!--
