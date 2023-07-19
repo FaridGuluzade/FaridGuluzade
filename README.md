@@ -5,11 +5,13 @@ I'm Farid, Frontend developer from  Baku, Azerbaijan. </p>
 
 <hr/>
 
-Quick learner, loves to teach, enthusiastic, self-motivated, reliable, responsible, hardworking and highly motivated.
+<h3>Quick learner, enthusiastic, self-motivated, reliable, responsible, hardworking and highly motivated.</h3>
 
-🌍 I'm based in Baku, Azerbaijan
-✉️ You can contact me at amil7.abdullayev@gmail.com
-🧠 I'm learning Python ML
+<ul>
+  <li>🌍 I'm based in Baku, Azerbaijan</li>
+  <li>✉️ You can contact me at faridguluzade.dev@gmail.com</li>
+  <li>🧠 I'm learning Next.js</li>
+</ul>
 
 
 <h3>Things I code with </h3>
