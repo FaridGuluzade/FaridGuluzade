@@ -3,6 +3,15 @@
 <p> Welcome to my page! </br>
 I'm Farid, Frontend developer from  Baku, Azerbaijan. </p>
 
+<hr/>
+
+Quick learner, loves to teach, enthusiastic, self-motivated, reliable, responsible, hardworking and highly motivated.
+
+🌍 I'm based in Baku, Azerbaijan
+✉️ You can contact me at amil7.abdullayev@gmail.com
+🧠 I'm learning Python ML
+
+
 <h3>Things I code with </h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -22,7 +31,6 @@ I'm Farid, Frontend developer from  Baku, Azerbaijan. </p>
 
 
 <hr/>
-
 
 
 <!--
