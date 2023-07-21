@@ -1,7 +1,7 @@
 ### <h1> 😎 Hey! Nice to see you. </h1>
 </hr>
 <p> Welcome to my page! </br>
-I'm Farid, Frontend developer from  Baku, Azerbaijan. </p>
+
 
 <hr/>
 
